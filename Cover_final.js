@@ -546,7 +546,7 @@ p.nominalBounds = new cjs.Rectangle(707.5,-4.9,554.4000000000001,1306.3000000000
 	// timeline functions:
 	this.frame_0 = function() {
 		playSound("soothingnighttimeambience",-1);
-		playSound("UnbreakableMachineDollOSTTrack20BraverySteps");
+		playSound("_20180402__Beautiful_Village__David_Fesliyan");
 	}
 	this.frame_32 = function() {
 		/* Stop at This Frame
@@ -672,19 +672,19 @@ lib.properties = {
 	color: "#0099CC",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/building_1.png?1629032464738", id:"building_1"},
-		{src:"images/character.png?1629032464738", id:"character"},
-		{src:"images/eye_layer.png?1629032464738", id:"eye_layer"},
-		{src:"images/image_plane.png?1629032464738", id:"image_plane"},
-		{src:"images/myths.png?1629032464738", id:"myths"},
-		{src:"images/stairs_front.png?1629032464738", id:"stairs_front"},
-		{src:"images/Cover_final_atlas_.png?1629032464689", id:"Cover_final_atlas_"},
-		{src:"images/Cover_final_atlas_2.png?1629032464690", id:"Cover_final_atlas_2"},
-		{src:"images/Cover_final_atlas_3.png?1629032464690", id:"Cover_final_atlas_3"},
-		{src:"images/Cover_final_atlas_4.png?1629032464690", id:"Cover_final_atlas_4"},
-		{src:"images/Cover_final_atlas_5.png?1629032464690", id:"Cover_final_atlas_5"},
-		{src:"sounds/soothingnighttimeambience.mp3?1629032464738", id:"soothingnighttimeambience"},
-		{src:"sounds/UnbreakableMachineDollOSTTrack20BraverySteps.mp3?1629032464738", id:"UnbreakableMachineDollOSTTrack20BraverySteps"}
+		{src:"images/building_1.png?1629034156980", id:"building_1"},
+		{src:"images/character.png?1629034156980", id:"character"},
+		{src:"images/eye_layer.png?1629034156980", id:"eye_layer"},
+		{src:"images/image_plane.png?1629034156980", id:"image_plane"},
+		{src:"images/myths.png?1629034156980", id:"myths"},
+		{src:"images/stairs_front.png?1629034156980", id:"stairs_front"},
+		{src:"images/Cover_final_atlas_.png?1629034156942", id:"Cover_final_atlas_"},
+		{src:"images/Cover_final_atlas_2.png?1629034156942", id:"Cover_final_atlas_2"},
+		{src:"images/Cover_final_atlas_3.png?1629034156942", id:"Cover_final_atlas_3"},
+		{src:"images/Cover_final_atlas_4.png?1629034156942", id:"Cover_final_atlas_4"},
+		{src:"images/Cover_final_atlas_5.png?1629034156943", id:"Cover_final_atlas_5"},
+		{src:"sounds/_20180402__Beautiful_Village__David_Fesliyan.mp3?1629034156980", id:"_20180402__Beautiful_Village__David_Fesliyan"},
+		{src:"sounds/soothingnighttimeambience.mp3?1629034156980", id:"soothingnighttimeambience"}
 	],
 	preloads: []
 };
